@@ -32,9 +32,9 @@ The performance of each algorithm was measured using the following metrics:
 | Hierarchical     | 0.5656           | 685.29                      | 0.5343                  |
 | MeanShift        | **0.5754**       | 454.06                      | 0.5562                  |
 
-> **Conclusion**: KMeans showed the most consistent and optimal performance across all metrics, making it the best clustering algorithm for this dataset.
-                : PCA showed the best pre-processing results for all the algorithms
-                : Best cluster-size = 5
+> **Conclusion**: KMeans showed the most consistent and optimal performance across all metrics, making it the best clustering algorithm for this data
+>  PCA showed the best pre-processing results for all the algorithms
+>  Best cluster-size = 5
 
 ## Technologies Used
 - Python (Pandas, NumPy)
